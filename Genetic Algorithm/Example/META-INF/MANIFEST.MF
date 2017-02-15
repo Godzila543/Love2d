@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+JavaFX-Version: 2.2
+implementation-vendor: cstuser
+implementation-title: Neural Network Test
+implementation-version: 1.0
+JavaFX-Application-Class: neuralnetworktest.NeuralNetwork
+JavaFX-Class-Path: 
+permissions: sandbox
+Created-By: JavaFX Packager
+Main-Class: com/javafx/main/Main
+codebase: *
+
